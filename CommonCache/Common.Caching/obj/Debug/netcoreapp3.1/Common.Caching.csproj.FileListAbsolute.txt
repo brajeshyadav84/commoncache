@@ -1,0 +1,10 @@
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\bin\Debug\netcoreapp3.1\Common.Caching.deps.json
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\bin\Debug\netcoreapp3.1\Common.Caching.dll
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\bin\Debug\netcoreapp3.1\Common.Caching.pdb
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\obj\Debug\netcoreapp3.1\Common.Caching.csproj.AssemblyReference.cache
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\obj\Debug\netcoreapp3.1\Common.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\obj\Debug\netcoreapp3.1\Common.Caching.AssemblyInfoInputs.cache
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\obj\Debug\netcoreapp3.1\Common.Caching.AssemblyInfo.cs
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\obj\Debug\netcoreapp3.1\Common.Caching.csproj.CoreCompileInputs.cache
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\obj\Debug\netcoreapp3.1\Common.Caching.dll
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching\obj\Debug\netcoreapp3.1\Common.Caching.pdb
