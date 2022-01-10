@@ -33,38 +33,39 @@ namespace Sample.Services
             return new StationList{Id = Guid.NewGuid(), Stations = list, CacheExpiry = DateTime.Now.AddMinutes(1) };
         }
 
+        public async Task<StationList> ReadStationsData(string Data)
+        {
+            System.Diagnostics.Debug.WriteLine("Actual GetStations Method Executed...");
+            //simulate DB Latency: 
+            await Task.Delay(3000);
+            var list = await _repository.GetStations();
+
+            return new StationList { Id = Guid.NewGuid(), Stations = list, CacheExpiry = DateTime.Now.AddMinutes(1) };
+        }
+
         protected virtual void Dispose(bool disposing)
         {
             if (!disposedValue)
             {
                 if (disposing)
                 {
-                    // TODO: dispose managed state (managed objects)
+                    
                 }
 
-                // TODO: free unmanaged resources (unmanaged objects) and override finalizer
-                // TODO: set large fields to null
                 disposedValue = true;
             }
         }
 
-        // // TODO: override finalizer only if 'Dispose(bool disposing)' has code to free unmanaged resources
-        // ~StationService()
-        // {
-        //     // Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method
-        //     Dispose(disposing: false);
-        // }
+        
 
         public void Dispose()
         {
-            // Do not change this code. Put cleanup code in 'Dispose(bool disposing)' method
             Dispose(disposing: true);
             GC.SuppressFinalize(this);
         }
 
         public async Task<Station> CompareStations(StationList first, Station second, int third)
         {
-            //simulate DB Latency: 
             await Task.Delay(3000);
 
             var result = await _repository.GetByStation(second);

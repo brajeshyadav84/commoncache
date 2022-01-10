@@ -27,6 +27,8 @@ namespace Sample
             services.AddDbContext<StationContext>(opt => opt.UseInMemoryDatabase("StationDB"));
             services.AddControllers();
 
+            services.AddHealthChecks();
+
             #region Sqllite Cache
             //services.CachingService(options =>
             //    {
@@ -77,9 +79,12 @@ namespace Sample
 
             app.UseAuthorization();
 
+            app.UseHealthChecks("/healthy");
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHealthChecks("/healthy");
             });
         }
     }
