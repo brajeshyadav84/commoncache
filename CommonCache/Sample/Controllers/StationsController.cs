@@ -20,11 +20,15 @@ namespace Sample.Controllers
         }
 
 
-        // GET: api/Stations
+        /// <summary>
+        /// GetStations
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Station>>> GetStations()
         {
-            var result = await _service.ReadStations();
+            //var result = await _service.ReadStations();
+            var result = await _service.ReadStationsData("brajesh");
             return result.Stations;
         }
 
@@ -42,7 +46,11 @@ namespace Sample.Controllers
         //    return station;
         //}
 
-
+        /// <summary>
+        /// GetByStation
+        /// </summary>
+        /// <param name="station"></param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<ActionResult<Station>> GetByStation(Station station)
         {
@@ -56,7 +64,10 @@ namespace Sample.Controllers
             return await _service.CompareStations(list,station,0);
         }
 
-
+        /// <summary>
+        /// Seed
+        /// </summary>
+        /// <returns></returns>
         [HttpGet("seed")]
         public async Task<ActionResult<bool>> Seed()
         {
