@@ -8,3 +8,6 @@ C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Redis\obj\Deb
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Redis\obj\Debug\netcoreapp3.1\Common.Caching.Redis.csproj.CoreCompileInputs.cache
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Redis\obj\Debug\netcoreapp3.1\Common.Caching.Redis.dll
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Redis\obj\Debug\netcoreapp3.1\Common.Caching.Redis.pdb
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Redis\bin\Debug\netcoreapp3.1\Common.Caching.Core.dll
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Redis\bin\Debug\netcoreapp3.1\Common.Caching.Core.pdb
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Redis\obj\Debug\netcoreapp3.1\Common.Caching.Redis.csproj.CopyComplete

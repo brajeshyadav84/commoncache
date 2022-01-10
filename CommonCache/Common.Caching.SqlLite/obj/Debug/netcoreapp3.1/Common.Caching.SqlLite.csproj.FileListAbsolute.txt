@@ -8,3 +8,6 @@ C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.SqlLite\obj\D
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.SqlLite\obj\Debug\netcoreapp3.1\Common.Caching.SqlLite.csproj.CoreCompileInputs.cache
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.SqlLite\obj\Debug\netcoreapp3.1\Common.Caching.SqlLite.dll
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.SqlLite\obj\Debug\netcoreapp3.1\Common.Caching.SqlLite.pdb
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.SqlLite\bin\Debug\netcoreapp3.1\Common.Caching.Core.dll
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.SqlLite\bin\Debug\netcoreapp3.1\Common.Caching.Core.pdb
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.SqlLite\obj\Debug\netcoreapp3.1\Common.Caching.SqlLite.csproj.CopyComplete

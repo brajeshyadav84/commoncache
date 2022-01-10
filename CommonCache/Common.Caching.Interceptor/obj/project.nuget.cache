@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "7GWEK6GpZjdsUqtLZXTiWD5V1KtmM8KPu+LfAYXkVOTnAZS+dnq80vRLONUt7O1uEMXEfsq4V8fr+98EUPp/kg==",
+  "dgSpecHash": "KLInhmG1VzM+pEITa7TelQ/6M4NPoQ4tqKtgBXT/NsanuBpjlhzQ7cHVOHOckaiuNO18WQDm3ps3yRi7++E5Sw==",
   "success": true,
   "projectFilePath": "C:\\Brajesh-Personal\\Project\\commoncache\\CommonCache\\Common.Caching.Interceptor\\Common.Caching.Interceptor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\aspectcore.abstractions\\2.1.0\\aspectcore.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\aspectcore.core\\2.1.0\\aspectcore.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\aspectcore.extensions.dependencyinjection\\2.1.0\\aspectcore.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\aspectcore.extensions.reflection\\2.1.0\\aspectcore.extensions.reflection.2.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.0\\microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.logging\\3.1.0\\microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.0\\microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\brajesh.yadav\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

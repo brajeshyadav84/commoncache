@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Caching", "Common.Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Caching.Core", "Common.Caching.Core\Common.Caching.Core.csproj", "{86813D62-4759-4C3C-9E34-606E47D947B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Caching.InMemory", "Common.Caching.InMemory\Common.Caching.InMemory.csproj", "{2BC01B7C-2590-456A-AF26-1F5D5AFE3010}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Caching.Redis", "Common.Caching.Redis\Common.Caching.Redis.csproj", "{43B46D26-50DF-40C8-A472-51C2FEEB76EC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Caching.SqlLite", "Common.Caching.SqlLite\Common.Caching.SqlLite.csproj", "{78320ABE-0313-4F30-B1C4-35C091BF7EA1}"
@@ -31,10 +29,6 @@ Global
 		{86813D62-4759-4C3C-9E34-606E47D947B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86813D62-4759-4C3C-9E34-606E47D947B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86813D62-4759-4C3C-9E34-606E47D947B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2BC01B7C-2590-456A-AF26-1F5D5AFE3010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2BC01B7C-2590-456A-AF26-1F5D5AFE3010}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2BC01B7C-2590-456A-AF26-1F5D5AFE3010}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2BC01B7C-2590-456A-AF26-1F5D5AFE3010}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43B46D26-50DF-40C8-A472-51C2FEEB76EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43B46D26-50DF-40C8-A472-51C2FEEB76EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43B46D26-50DF-40C8-A472-51C2FEEB76EC}.Release|Any CPU.ActiveCfg = Release|Any CPU

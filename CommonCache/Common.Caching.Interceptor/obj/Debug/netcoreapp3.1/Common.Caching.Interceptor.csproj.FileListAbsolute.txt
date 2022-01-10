@@ -8,3 +8,6 @@ C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Interceptor\o
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Interceptor\obj\Debug\netcoreapp3.1\Common.Caching.Interceptor.csproj.CoreCompileInputs.cache
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Interceptor\obj\Debug\netcoreapp3.1\Common.Caching.Interceptor.dll
 C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Interceptor\obj\Debug\netcoreapp3.1\Common.Caching.Interceptor.pdb
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Interceptor\bin\Debug\netcoreapp3.1\Common.Caching.Core.dll
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Interceptor\bin\Debug\netcoreapp3.1\Common.Caching.Core.pdb
+C:\Brajesh-Personal\Project\commoncache\CommonCache\Common.Caching.Interceptor\obj\Debug\netcoreapp3.1\Common.Caching.Interceptor.csproj.CopyComplete

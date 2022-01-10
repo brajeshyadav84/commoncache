@@ -3,5 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AspectCore.Extensions.Hosting" Version="2.1.0" />
+  </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Common.Caching.Interceptor\Common.Caching.Interceptor.csproj" />
+    <ProjectReference Include="..\Common.Caching.Redis\Common.Caching.Redis.csproj" />
+    <ProjectReference Include="..\Common.Caching.SqlLite\Common.Caching.SqlLite.csproj" />
+  </ItemGroup>
 </Project>
